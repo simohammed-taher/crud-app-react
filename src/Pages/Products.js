@@ -45,7 +45,7 @@ function Products() {
 					<tr>
 						<th>ID</th>
 						<th>Title</th>
-						{/* <th>Description</th> */}
+						<th>Description</th>
 						<th>Price</th>
 						<th>Operations</th>
 					</tr>
